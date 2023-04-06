@@ -1,0 +1,19 @@
+.cor     {
+    color: aqua;
+}
+
+.cor__t {
+color:chartreuse
+}
+#cor3 {
+    background-color: brown;
+}
+
+.menu {
+    list-style: none;
+   
+}
+
+.menu__li {
+    display: inline-block;
+}
