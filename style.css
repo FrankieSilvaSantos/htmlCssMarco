@@ -11,9 +11,23 @@ color:chartreuse
 
 .menu {
     list-style: none;
+    
    
+}
+
+.menu__saude {
+    list-style: none;
+}
+
+.menu__educacao {
+    list-style: none;
 }
 
 .menu__li {
     display: inline-block;
+    background-color: salmon;
+}
+
+a {
+   text-decoration: none;
 }
