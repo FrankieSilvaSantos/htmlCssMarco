@@ -1,0 +1,22 @@
+.menu__li {
+    display: inline-block;
+    text-decoration: none;
+    background-color: salmon;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.menu__internet {
+    list-style: none;
+    font-weight: bold;
+}
+
+.menu__telefonia {
+    list-style: none;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
